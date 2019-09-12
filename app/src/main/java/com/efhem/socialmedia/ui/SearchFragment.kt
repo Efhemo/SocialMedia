@@ -1,6 +1,5 @@
 package com.efhem.socialmedia.ui
 
-
 import android.os.Bundle
 import android.os.Handler
 import android.view.LayoutInflater
