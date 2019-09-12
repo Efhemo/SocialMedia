@@ -1,7 +1,8 @@
-package com.efhem.socialmedia
+package com.efhem.socialmedia.ui
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import com.efhem.socialmedia.R
 
 class MainActivity : AppCompatActivity() {
 
