@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">SocialMedia</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="settings">Settings</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="main">Main</string>
+    <string name="notification">Notification</string>
+    <string name="profile">Profile</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="verified">verified</string>
+    <string name="not_verified">not verified</string>
 </resources>
